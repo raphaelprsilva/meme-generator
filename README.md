@@ -21,12 +21,12 @@
 Clone o projeto
 
 ```shell
-git clone git@github.com:raphaelprsilva/pixel-art.git
+git clone git@github.com:raphaelprsilva/meme-generator.git
 ```
 
 ### 👨‍💻 Caso queria acessar o site do projeto
 
-[Meme Generator](https://pixels-art.elraphael.com.br/)
+[Meme Generator](https://meme-generator.elraphael.com.br/)
 
 ---
 
